@@ -1,0 +1,208 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ 
+ */
+@import "bootstrap";
+$buttonsHeight: 50px;
+
+body
+{
+  background-color: #faf7d0;
+}
+
+
+#spanish_flag
+{
+  height: 200px;
+  width: 100%;
+}
+
+#description
+{
+	padding: 0;
+  width: 33%;
+}
+
+#contact_info
+{
+	padding: 0;
+	width: 100%;  
+}
+
+#logo_description_box
+{
+  display: flex;
+}
+
+.portrait
+{
+  margin-top: -$buttonsHeight; 
+  padding: 0 15px 0 0;
+  max-height: 356px;
+  max-width: 288px;
+}
+
+#portrait_img
+{
+}
+
+.row > div
+{
+}
+
+
+.col-md-4
+{
+}
+
+.list-group
+{
+	height: 100%;
+  width: 100%;
+}
+
+.list-group-item
+{
+	width: auto;
+	padding: 5px;
+}
+
+#contact_info > #list-group > li
+{
+  font-size: 16px;
+}
+
+#banner
+{
+}
+
+
+li
+{
+  font-size: 10px;
+}
+
+
+#backg
+{
+	height: 800px;
+	width: 100%;
+	background: url("spanish-flag.jpg");
+  background-repeat: no-repeat;
+   background-size: 100% auto;
+   background-position: center top;
+   background-attachment: fixed;
+}
+
+#contact
+{
+	margin-top: -100px;
+}
+
+#buttonToPage
+{
+	font-weight: bold;
+	color: white;
+	font-size: 32px;
+	position:fixed;
+    top: 50%;
+    left: 50%;
+    width:7em;
+    height:4em;
+    margin-top: -2em; /*set to a negative number 1/2 of your height*/
+    margin-left: -3.5em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+}
+
+.puertoRicoPic
+{
+  max-height: 480px;
+  max-width: 320px;
+}
+
+#puertoRicoPics
+{
+  padding: 0;
+
+}
+
+#buttons
+{
+ margin-left: 50%;
+}
+
+#buttonRow
+{
+  height: $buttonsHeight; 
+}
+
+#email-button
+{
+  
+}
+
+#bodyCopy
+{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#footerBar
+{
+  background-color: red;
+  height:10px;
+  width: 100%;
+}
+
+h3
+{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 28px;
+  color: red;
+}
+
+#footer
+{
+  text-align: center;
+  vertical-align: middle;
+}
+
+p
+{
+  font-size: 24px;
+  font-family: Arial;
+}
+
+.banner_img
+{
+  max-width: 320px;
+  padding: 0px;
+}
+
+.col-md-2
+{
+  padding: 0px;
+}
+
+li
+{
+  font-size: 22px;
+  font-family: Arial;
+}
+
+.footer
+{
+  line-height: 50%;
+  font-size: 22px;
+}
