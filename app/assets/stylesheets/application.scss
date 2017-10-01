@@ -47,7 +47,7 @@ body
 .portrait
 {
   margin-top: -$buttonsHeight - 5; 
-  padding: 0 15px 0 0;
+  padding: 0 30px 0 0;
   max-height: 356px;
   max-width: 288px;
 }
@@ -255,3 +255,12 @@ li
   padding: 0;
 }
 
+.descriptionText
+{
+  padding: 30px;
+}
+
+.educationBox
+{
+  padding-left: 18px;
+}

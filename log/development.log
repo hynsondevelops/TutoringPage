@@ -6228,3 +6228,75 @@ Completed 200 OK in 3152ms (Views: 3149.0ms | ActiveRecord: 0.0ms)
 Completed 200 OK in 3042ms (Views: 3021.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:05:38 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (38.6ms)
+Completed 200 OK in 2117ms (Views: 2111.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:06:42 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 1949ms (Views: 1940.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:08:11 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (41.0ms)
+Completed 200 OK in 2026ms (Views: 2013.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:09:05 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (34.1ms)
+Completed 200 OK in 2017ms (Views: 2012.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:11:11 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (44.2ms)
+Completed 200 OK in 94ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:11:23 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 61ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:11:59 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (29.5ms)
+Completed 200 OK in 1961ms (Views: 1956.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:12:43 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (25.6ms)
+Completed 200 OK in 66ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:14:23 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (16.9ms)
+Completed 200 OK in 48ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
