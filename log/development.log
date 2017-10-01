@@ -6300,3 +6300,11 @@ Processing by TutoringController#show as HTML
 Completed 200 OK in 48ms (Views: 40.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/tutoring/1" for 127.0.0.1 at 2017-10-01 11:19:41 -0400
+Processing by TutoringController#show as HTML
+  Parameters: {"id"=>"1"}
+  Rendering tutoring/show.html.erb within layouts/application
+  Rendered tutoring/show.html.erb within layouts/application (36.2ms)
+Completed 200 OK in 79ms (Views: 73.3ms | ActiveRecord: 0.0ms)
+
+
