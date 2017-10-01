@@ -46,7 +46,7 @@ body
 
 .portrait
 {
-  margin-top: -$buttonsHeight - 5; 
+  margin-top: -$buttonsHeight; 
   padding: 0 30px 0 0;
   max-height: 356px;
   max-width: 288px;
@@ -144,8 +144,8 @@ li
 #buttonRow
 {
   height: $buttonsHeight; 
-  margin-top: 5px;
-
+  margin-top: 20px;
+  margin-bottom: -20px;
 }
 
 #email-button
@@ -218,6 +218,7 @@ li
   border-radius: 5px;
   box-shadow: 5px 5px 2px #888888;
   background-color: #ffc501;
+  padding: 8px;
 }
 
 .logo
@@ -268,4 +269,14 @@ li
 .photography
 {
   font-size: 18px;
+}
+
+.letting
+{
+  margin-bottom: -3px;
+}
+
+.pad
+{
+  padding-right: 50px;
 }
